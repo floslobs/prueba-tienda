@@ -1,4 +1,4 @@
-# Tienda para feria de ropa — plantilla gratis (GitHub Pages)
+# prueba-tienda — plantilla
 
 Cada vendedor tiene su propio sitio, con su propio link, y carga sus fotos/videos
 desde el celular sin escribir código. Todo gratis, sin servidores ni pagos.
