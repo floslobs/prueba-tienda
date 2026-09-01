@@ -1,11 +1,16 @@
 {
-  "nombre": "Mi Tienda",
+  "nombre": "ds",
   "eslogan": "Ropa con onda, directo de la feria",
-  "whatsapp": "",
+  "whatsapp": "43554",
   "instagram": "",
-  "activa": true,
   "colores": {
-    "fondo": "#202b3d",
-    "acentos": ["#ff6b5b", "#2ec4b6", "#f2b134", "#e4569e", "#8fc93a"]
+    "fondo": "#2b1d14",
+    "acentos": [
+      "#d1495b",
+      "#edae49",
+      "#00798c",
+      "#30638e",
+      "#ff8c42"
+    ]
   }
 }
