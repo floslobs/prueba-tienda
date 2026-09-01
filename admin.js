@@ -108,7 +108,7 @@ async function ghGetFile(path) {
 
 async function ghPutFile(path, base64Content, message, sha) {
   const cfg = getConfig();
-  const body = { message, content: base64Content, branch: "main" };
+  const body = { message, content: base64Content };
   if (sha) body.sha = sha;
   const res = await fetch(apiUrl(path), {
     method: "PUT",
