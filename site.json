@@ -4,13 +4,13 @@
   "whatsapp": "43554",
   "instagram": "",
   "colores": {
-    "fondo": "#2b1d14",
+    "fondo": "#ffff00",
     "acentos": [
-      "#ff00ff",
-      "#edae49",
-      "#0ca4bb",
-      "#30638e",
-      "#ff8c42"
+      "#ff2e63",
+      "#08d9d6",
+      "#f9c80e",
+      "#a239ea",
+      "#00f5d4"
     ]
   }
 }
